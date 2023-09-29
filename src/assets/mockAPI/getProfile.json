@@ -1,0 +1,153 @@
+[
+    {
+      "name": "Rajesh Kumar",
+      "age": 30,
+      "gender": "Female",
+      "email": "rajeshkumar@example.com",
+      "phone": "+91 98765 43210",
+      "address": {
+        "street": "456 Redwood Lane",
+        "city": "Mumbai",
+        "state": "MH",
+        "postalCode": "400001"
+      },
+      "photograph": "notification-01.jpg",
+      "description": "Rajesh Kumar is a software engineer with a passion for technology and problem-solving. He enjoys hiking, playing the guitar, and experimenting with new coding languages in his free time."
+    },
+    {
+      "name": "Priya Sharma",
+      "age": 28,
+      "gender": "Female",
+      "email": "priyasharma@example.com",
+      "phone": "+91 98765 54321",
+      "address": {
+        "street": "789 Green Valley Road",
+        "city": "New Delhi",
+        "state": "DL",
+        "postalCode": "110001"
+      },
+      "photograph": "notification-02.jpg",
+      "description": "Priya Sharma is a graphic designer who loves creating visual art. She enjoys traveling to new places and trying out local cuisines."
+    },
+    {
+      "name": "Amit Patel",
+      "age": 35,
+      "gender": "Male",
+      "email": "amitpatel@example.com",
+      "phone": "+91 98765 98765",
+      "address": {
+        "street": "123 Blue Sky Avenue",
+        "city": "Ahmedabad",
+        "state": "GJ",
+        "postalCode": "380001"
+      },
+      "photograph": "notification-03.jpg",
+      "description": "Amit Patel is a teacher who is passionate about educating the next generation. He enjoys reading books and volunteering for community projects."
+    },
+    {
+      "name": "Neha Gupta",
+      "age": 26,
+      "gender": "Female",
+      "email": "nehagupta@example.com",
+      "phone": "+91 98765 33322",
+      "address": {
+        "street": "101 Pine Road",
+        "city": "Bangalore",
+        "state": "KA",
+        "postalCode": "560001"
+      },
+      "photograph": "notification-04.jpg",
+      "description": "Neha Gupta is an aspiring artist who loves painting and sketching. She also enjoys going on long nature hikes."
+    },
+    {
+      "name": "Sanjay Sharma",
+      "age": 32,
+      "gender": "Male",
+      "email": "sanjaysharma@example.com",
+      "phone": "+91 98765 77788",
+      "address": {
+        "street": "222 Green Park Road",
+        "city": "Kolkata",
+        "state": "WB",
+        "postalCode": "700001"
+      },
+      "photograph": "notification-05.jpg",
+      "description": "Sanjay Sharma is a chef known for his culinary expertise. He enjoys experimenting with new recipes and sharing his love for food with others."
+    },
+    {
+      "name": "Meera Verma",
+      "age": 29,
+      "gender": "Female",
+      "email": "meeraverma@example.com",
+      "phone": "+91 98765 11199",
+      "address": {
+        "street": "333 Lotus Lane",
+        "city": "Chennai",
+        "state": "TN",
+        "postalCode": "600001"
+      },
+      "photograph": "notification-06.jpg",
+      "description": "Meera Verma is an environmentalist who is passionate about protecting the planet. She enjoys gardening and organizing eco-friendly events."
+    },
+    {
+      "name": "Rahul Singh",
+      "age": 34,
+      "gender": "Male",
+      "email": "rahulsingh@example.com",
+      "phone": "+91 98765 44433",
+      "address": {
+        "street": "444 Rose Avenue",
+        "city": "Pune",
+        "state": "MH",
+        "postalCode": "411001"
+      },
+      "photograph": "notification-07.jpg",
+      "description": "Rahul Singh is a journalist who loves to travel and write about his adventures. He's also an avid photographer."
+    },
+    {
+      "name": "Anita Pandey",
+      "age": 27,
+      "gender": "Female",
+      "email": "anitapandey@example.com",
+      "phone": "+91 98765 99988",
+      "address": {
+        "street": "567 Tulip Lane",
+        "city": "Hyderabad",
+        "state": "TS",
+        "postalCode": "500001"
+      },
+      "photograph": "notification-08.jpg",
+      "description": "Anita Pandey is a veterinarian who loves taking care of animals. She enjoys outdoor activities and going on hikes with her pets."
+    },
+    {
+      "name": "Vikram Yadav",
+      "age": 31,
+      "gender": "Male",
+      "email": "vikramyadav@example.com",
+      "phone": "+91 98765 22233",
+      "address": {
+        "street": "789 Red Rose Avenue",
+        "city": "Jaipur",
+        "state": "RJ",
+        "postalCode": "302001"
+      },
+      "photograph": "notification-09.jpg",
+      "description": "Vikram Yadav is a musician who enjoys playing the piano and composing music. He also loves traveling and exploring new cultures."
+    },
+    {
+      "name": "Sneha Choudhury",
+      "age": 28,
+      "gender": "Female",
+      "email": "snehachoudhury@example.com",
+      "phone": "+91 98765 77755",
+      "address": {
+        "street": "101 Sunflower Lane",
+        "city": "Lucknow",
+        "state": "UP",
+        "postalCode": "226001"
+      },
+      "photograph": "notification-10.jpg",
+      "description": "Sneha Choudhury is a software developer with a passion for creating innovative applications. She enjoys solving complex problems and staying up-to-date with the latest tech trends."
+    }
+  ]
+  

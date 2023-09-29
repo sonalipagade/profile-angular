@@ -1,0 +1,16 @@
+.tm-notification-item {
+    margin-bottom: 0px !important;
+    border: 2px solid #d1d1d1;
+}
+
+.tm-block {
+    max-height: 680px;
+}
+
+.addr {
+    color: #f5f7f9;
+}
+#map {
+    height: 400px;
+    width: 100%;
+}
